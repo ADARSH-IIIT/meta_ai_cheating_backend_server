@@ -1,3 +1,4 @@
 flask
 requests   
 meta_ai_api
+gunicorn
